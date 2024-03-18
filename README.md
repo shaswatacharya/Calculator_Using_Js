@@ -4,6 +4,6 @@
 <br>
 Note: Javascript is used inline.
 <p>Can't type using numpad :/ 
-Will Soon add on </p>
+Will Soon add on and update</p>
 <br>
 Thankyou
